@@ -1,0 +1,26 @@
+# React + Vite
+
+- Raect-vite setup
+- Header
+- Routing of App
+- Login form
+- Sign up form
+- Form validation
+- useRef Hook
+- Firebase setup
+- Create signup user account
+- Implement sign in user API
+- Create redux store with userSlice
+- Implemented Sign out
+- Register TMDB API and create an app and get the access token
+- Get data from TMDB API
+- Create movieSlice
+- Update store with movies data
+- Fetch data for trailor
+- Update store with trailor video data
+- Build secondary container 
+- Build Movie List 
+- Build Movie card
+- TMDB image CDN url
+- usePopularMovies custom hook 
+- Search feature
